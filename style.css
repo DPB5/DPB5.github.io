@@ -95,13 +95,13 @@ h1 {
   background: -webkit-linear-gradient(#02AABD ,#00CDAC);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 55px;
+  font-size: 45px;
 }
 h2 {
   background: -webkit-linear-gradient(#02AABD , #00CDAC);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 45px;
+  font-size: 35px;
 }
 hr {
   height: 3px;
@@ -125,7 +125,7 @@ h3{
   background: -webkit-linear-gradient(#02AABD , #00CDAC);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 40px;
+  font-size: 30px;
 }
 .img{
   width: 100%;
